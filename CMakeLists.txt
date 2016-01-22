@@ -201,6 +201,7 @@ if (ENABLE_TESTING)
 		tests/formatter/parser
 		tests/formatter/string
 		tests/handler/blocking
+		tests/metaformat
 		tests/record
 		tests/registry
 		tests/root
